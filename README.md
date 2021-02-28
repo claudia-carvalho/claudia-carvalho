@@ -1,5 +1,5 @@
-Hello Friend 👋
+<h1> Hello Friend 👋 </h1>
 
 
-- 💻 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT
-- 🤔 I’m looking for help with React
+- 💻 I’m currently learning <i>HTML, CSS, JAVASCRIPT, NODE, REACT</i>
+- 🤔 I’m looking for help with <b>React</b>
